@@ -18,5 +18,7 @@ Please note that most likely that this software will NOT result in VAC ban, <b>B
 ![ss3](ss3.png) <br >
 ![ss4](ss4.png) <br >
 
+---
+
 ### If you liked this project, please consider putting it a star! <3
 ![:(](mei.gif)
