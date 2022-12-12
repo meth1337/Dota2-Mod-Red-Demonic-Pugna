@@ -8,7 +8,7 @@ Please note that most likely that this software won't result in VAC, but there's
 ---
 
 # Usage 
-* Download the latest mod release here: [here](https://github.com/meth1337/Dota2-Mod-Red-Demonic-Pugna/releases/latest)
+* Download the latest mod release [here](https://github.com/meth1337/Dota2-Mod-Red-Demonic-Pugna/releases/latest)
 * Unzip it in `C:/Program Files/Steam/Steamapps/Common/dota 2 beta` (or your dota 2 directory)
 * Place `gameinfo.gi` to `directory`
 * Run the game.
