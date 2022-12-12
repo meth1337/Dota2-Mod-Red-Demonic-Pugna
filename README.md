@@ -20,5 +20,5 @@ Please note that most likely that this software will NOT result in VAC ban, <b>B
 
 ---
 
-### If you liked this project, please consider putting it a star! <3
+### If you liked this project, please consider giving it a star! <3
 ![:(](mei.gif)
