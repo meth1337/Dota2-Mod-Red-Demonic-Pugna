@@ -3,7 +3,7 @@ Mod that changes your Pugna model color from green to red. <br >
 ![ss1](ss1.png)
 
 # NOTE!!!
-Please note that most likely that this software won't result in VAC, but there's still such possibility because it changes the game  files.
+Please note that most likely that this software will NOT result in VAC ban, <b>BUT there's still such possibility</b> because it changes the game  files.
 
 ---
 
@@ -19,4 +19,4 @@ Please note that most likely that this software won't result in VAC, but there's
 ![ss4](ss4.png) <br >
 
 ### If you liked this project, please consider putting it a star! <3
-
+![:(](mei.gif)
